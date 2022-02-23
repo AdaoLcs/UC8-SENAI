@@ -1,6 +1,6 @@
-//TIPO DE MENU
+// TIPO DE MENU
 
-//O QUE MUDA COM LET OU CONST??
+// O QUE MUDA COM LET OU CONST??
 const alimentoSelecionado = "açaí com farinha"
 
 // Sintax Sugar - com SWITCH (Estrutra de repetição)
